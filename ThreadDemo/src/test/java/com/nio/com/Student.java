@@ -3,7 +3,7 @@ package com.nio.com;
 public class Student {
 
     private String name;
-
+    private String testGit;
     public String getName() {
         return name;
     }
